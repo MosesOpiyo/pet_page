@@ -68,13 +68,13 @@ button[type="button"]:hover{
 }
 .content button{
     margin: 5px;
-    color: black;
+    color: white;
     margin-left: 70px;
     padding: 8px 0;
-    border: 2px solid aqua;
+    border: 5px solid white;
     border-radius: 50px;
     height: 80px;
     width: 180px;
     font-size: 20px;
-    background:aqua;
+    background:rgb(35, 147, 238);
 }
